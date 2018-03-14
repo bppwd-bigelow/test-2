@@ -22,6 +22,7 @@ public class JavaApplication21 {
         System.out.print("yhrguhgudh");
         System.out.print("MANS NOT ASZNEE");
         System.out.print("yhrguhgudh");
+        System.out.print("yhrguhgudh");
      
     }
     
